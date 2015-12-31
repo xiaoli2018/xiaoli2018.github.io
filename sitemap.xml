@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2015/12/31/Test/</loc>
+    <lastmod>2015-12-31T09:30:28.822Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/baidu_verify_R1WrVMI9bj.html</loc>
     <lastmod>2015-12-31T09:03:07.166Z</lastmod>
   </url>
