@@ -5,12 +5,14 @@
     
   <url>
     <loc>http://yoursite.com/2015/12/31/Test/</loc>
-    <lastmod>2015-12-31T09:33:01.140Z</lastmod>
+    <lastmod>2015-12-31T09:30:28.822Z</lastmod>
     <data>
         <display>
-        <title></title>
-        <pubTime>2015-12-31T09:33:26.686Z</pubTime>
+        <title>Test</title>
+        <pubTime>2015-12-31T09:26:05.000Z</pubTime>
         
+        <tag>test</tag>
+         
          
            
         </display>
@@ -19,4 +21,49 @@
 
     
     
+    
+  <url>
+    <loc>http://yoursite.com/2015/12/31/2015%E7%BB%93%E6%9D%9F%E5%95%A6%20(2)/</loc>
+    <lastmod>2015-12-30T13:09:20.695Z</lastmod>
+    <data>
+        <display>
+        <title></title>
+        <pubTime>2015-12-31T09:36:14.915Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2015/12/30/2015%E7%BB%93%E6%9D%9F%E5%95%A6/</loc>
+    <lastmod>2015-12-30T12:39:22.620Z</lastmod>
+    <data>
+        <display>
+        <title>2015结束啦</title>
+        <pubTime>2015-12-30T12:39:22.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2015/12/31/hello-world/</loc>
+    <lastmod>2015-12-30T12:05:17.796Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2015-12-31T09:36:14.905Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
 </urlset>
